@@ -38,6 +38,10 @@ Then open the interactive API docs at:
 
 http://127.0.0.1:8000/docs
 
+## Demo Video
+
+https://drive.google.com/drive/folders/1ZxEncMx_tC0RWnVgdiUk0p41I3Bn0Ux1
+
 ## API Overview
 
 | Method | Endpoint                     | Description                            |
