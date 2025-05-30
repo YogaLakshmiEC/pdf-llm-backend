@@ -40,7 +40,7 @@ http://127.0.0.1:8000/docs
 
 ## Demo Video
 
-https://drive.google.com/drive/folders/1ZxEncMx_tC0RWnVgdiUk0p41I3Bn0Ux1
+https://drive.google.com/file/d/18cA1G-644JBKIAhV89Lq823b7n1UCLqi/view?usp=sharing
 
 ## API Overview
 
